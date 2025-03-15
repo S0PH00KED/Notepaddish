@@ -1,1 +1,1 @@
-This is an obfuscated version of Nishan's project to create a reverse shell on Windows 10/11. All strings and variables were changed or removed. Additionally, as shown in encode.ps1 we have encoded our script in Base64.
+This is an obfuscated version of Nishan's project to create a reverse shell on Windows 10/11. All strings and variables were changed or removed. Additionally, as shown in encode64.ps1 we have encoded our script in Base64.
